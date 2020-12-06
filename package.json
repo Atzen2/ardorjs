@@ -1,13 +1,13 @@
 {
-  "name": "ardorjs",
-  "version": "0.1.5",
+  "name": "@atz3n/ardorjs",
+  "version": "1.0.0",
   "description": "Local transaction signing for ardor transactions, and ardor address creations",
   "main": "index.js",
   "scripts": {
     "test-node": "jest --testEnvironment=node",
     "test-browser": "jest --testEnvironment=jsdom"
   },
-  "author": "MrV <mrv.crypto@gmail.com>",
+  "author": "atz3n",
   "license": "MIT",
   "dependencies": {
     "buffer": "^5.4.3",
@@ -27,14 +27,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrv777/ardorjs.git"
+    "url": "git+https://github.com/atz3n/ardorjs.git"
   },
   "keywords": [
     "ardor",
     "sign"
   ],
   "bugs": {
-    "url": "https://github.com/mrv777/ardorjs/issues"
+    "url": "https://github.com/atz3n/ardorjs/issues"
   },
-  "homepage": "https://github.com/mrv777/ardorjs#readme"
+  "homepage": "https://github.com/atz3n/ardorjs#readme"
 }
